@@ -1,0 +1,258 @@
+{
+    "USC00040144": {
+        "station": "ALTADENA",
+        "state": "CA",
+        "country": "US",
+        "latitude": 34.1822,
+        "longitude": -118.1383,
+        "elevation": 343.5
+    },
+    "USC00040192": {
+        "station": "ANAHEIM",
+        "state": "CA",
+        "country": "US",
+        "latitude": 33.8647,
+        "longitude": -117.8425,
+        "elevation": 71.6
+    },
+    "USW00023152": {
+        "station": "BURBANK",
+        "state": "CA",
+        "country": "US",
+        "latitude": 34.2006,
+        "longitude": -118.3575,
+        "elevation": 225.9
+    },
+    "USW00023136": {
+        "station": "CAMARILLO",
+        "state": "CA",
+        "country": "US",
+        "latitude": 34.2167,
+        "longitude": -119.0833,
+        "elevation": 23.5
+    },
+    "USW00003179": {
+        "station": "CHINO",
+        "state": "CA",
+        "country": "US",
+        "latitude": 33.9753,
+        "longitude": -117.6361,
+        "elevation": 198.1
+    },
+    "US1CARV0008": {
+        "station": "CORONA",
+        "state": "CA",
+        "country": "US",
+        "latitude": 33.7307,
+        "longitude": -117.4276,
+        "elevation": 427.9
+    },
+    "USC00042214": {
+        "station": "CULVER CITY",
+        "state": "CA",
+        "country": "US",
+        "latitude": 34.005,
+        "longitude": -118.4139,
+        "elevation": 28
+    },
+    "USC00042805": {
+        "station": "ELSINORE",
+        "state": "CA",
+        "country": "US",
+        "latitude": 33.6861,
+        "longitude": -117.3458,
+        "elevation": 386.5
+    },
+    "USW00003166": {
+        "station": "FULLERTON",
+        "state": "CA",
+        "country": "US",
+        "latitude": 33.8719,
+        "longitude": -117.9789,
+        "elevation": 29.3
+    },
+    "US1CALA0001": {
+        "station": "GLENDALE",
+        "state": "CA",
+        "country": "US",
+        "latitude": 34.1689,
+        "longitude": -118.2947,
+        "elevation": 155.8
+    },
+    "USW00003167": {
+        "station": "HAWTHORNE MUNI",
+        "state": "CA",
+        "country": "US",
+        "latitude": 33.9228,
+        "longitude": -118.3342,
+        "elevation": 19.2
+    },
+    "USC00044303": {
+        "station": "IRVINE RCH",
+        "state": "CA",
+        "country": "US",
+        "latitude": 33.72,
+        "longitude": -117.7231,
+        "elevation": 164.6
+    },
+    "USW00023129": {
+        "station": "LONG BEACH DAUGHERTY FLD",
+        "state": "CA",
+        "country": "US",
+        "latitude": 33.8117,
+        "longitude": -118.1464,
+        "elevation": 9.4
+    },
+    "USW00093134": {
+        "station": "LOS ANGELES DOWNTOWN",
+        "state": "CA",
+        "country": "US",
+        "latitude": 34.0511,
+        "longitude": -118.2353,
+        "elevation": 70.1
+    },
+    "USW00023174": {
+        "station": "LAX",
+        "state": "CA",
+        "country": "US",
+        "latitude": 33.9381,
+        "longitude": -118.3889,
+        "elevation": 29.6
+    },
+    "US1CAOR0019": {
+        "station": "MISSION VIEJO",
+        "state": "CA",
+        "country": "US",
+        "latitude": 33.5954,
+        "longitude": -117.6442,
+        "elevation": 214.6
+    },
+    "USC00046175": {
+        "station": "NEWPORT BEACH",
+        "state": "CA",
+        "country": "US",
+        "latitude": 33.6031,
+        "longitude": -117.8836,
+        "elevation": 3
+    },
+    "USW00003102": {
+        "station": "ONTARIO",
+        "state": "CA",
+        "country": "US",
+        "latitude": 34.0561,
+        "longitude": -117.6003,
+        "elevation": 289.3
+    },
+    "USC00046572": {
+        "station": "OXNARDO",
+        "state": "CA",
+        "country": "US",
+        "latitude": 34.2067,
+        "longitude": -119.1375,
+        "elevation": 15.8
+    },
+    "USC00046663": {
+        "station": "PALOS VERDES",
+        "state": "CA",
+        "country": "US",
+        "latitude": 33.7997,
+        "longitude": -118.3911,
+        "elevation": 67.1
+    },
+    "USC00046719": {
+        "station": "PASADENA",
+        "state": "CA",
+        "country": "US",
+        "latitude": 34.1483,
+        "longitude": -118.1447,
+        "elevation": 263.3
+    },
+    "USW00093111": {
+        "station": "POINT MUGU",
+        "state": "CA",
+        "country": "US",
+        "latitude": 34.1167,
+        "longitude": -119.1167,
+        "elevation": 4
+    },
+    "USC00047306": {
+        "station": "REDLANDS",
+        "state": "CA",
+        "country": "US",
+        "latitude": 34.0369,
+        "longitude": -117.1947,
+        "elevation": 429.8
+    },
+    "USW00003171": {
+        "station": "RIVERSIDE",
+        "state": "CA",
+        "country": "US",
+        "latitude": 33.9519,
+        "longitude": -117.4386,
+        "elevation": 245.4
+    },
+    "USC00047776": {
+        "station": "SAN GABRIEL CANYON",
+        "state": "CA",
+        "country": "US",
+        "latitude": 34.1553,
+        "longitude": -117.9078,
+        "elevation": 226.8
+    },
+    "USW00093184": {
+        "station": "SANTA ANA",
+        "state": "CA",
+        "country": "US",
+        "latitude": 33.68,
+        "longitude": -117.8664,
+        "elevation": 16.5
+    },
+    "USW00093197": {
+        "station": "SANTA MONICA",
+        "state": "CA",
+        "country": "US",
+        "latitude": 34.0158,
+        "longitude": -118.4514,
+        "elevation": 53
+    },
+    "USW00003122": {
+        "station": "TORRANCE",
+        "state": "CA",
+        "country": "US",
+        "latitude": 33.8017,
+        "longitude": -118.3411,
+        "elevation": 27.4
+    },
+    "USC00049152": {
+        "station": "UCLA",
+        "state": "CA",
+        "country": "US",
+        "latitude": 34.0697,
+        "longitude": -118.4428,
+        "elevation": 131.1
+    },
+    "USW00023130": {
+        "station": "VAN NUYS",
+        "state": "CA",
+        "country": "US",
+        "latitude": 34.2097,
+        "longitude": -118.4892,
+        "elevation": 234.7
+    },
+    "US1CALA0010": {
+        "station": "WHITTIER",
+        "state": "CA",
+        "country": "US",
+        "latitude": 33.9862,
+        "longitude": -118.0664,
+        "elevation": 52.1
+    },
+    "USC00049785": {
+        "station": "WOODLAND HILLS",
+        "state": "CA",
+        "country": "US",
+        "latitude": 34.1819,
+        "longitude": -118.5744,
+        "elevation": 240.8
+    }
+}

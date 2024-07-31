@@ -1,0 +1,13 @@
+
+{
+    "description": "font-awesome-code",
+    "cloudy":"cloud",
+    "day_partly_cloudy":"cloud-sun",
+    "night_partly_cloudy":"cloud-moon",
+    "night_rain":"cloud-moon-rain",
+    "day_rain":"cloud-rain",
+    "rain":"cloud-rain",
+    "day_sunny": "sun",
+    "night_clear": "moon",
+    "windy": "wind"
+}

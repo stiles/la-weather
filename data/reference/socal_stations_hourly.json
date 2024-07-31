@@ -1,0 +1,106 @@
+{
+    "USW00023152": {
+        "station": "BURBANK",
+        "state": "CA",
+        "country": "US",
+        "latitude": 34.2006,
+        "longitude": -118.3575,
+        "elevation": 225.9
+    },
+    "USW00023136": {
+        "station": "CAMARILLO",
+        "state": "CA",
+        "country": "US",
+        "latitude": 34.2167,
+        "longitude": -119.0833,
+        "elevation": 23.5
+    },
+    "USW00003179": {
+        "station": "CHINO",
+        "state": "CA",
+        "country": "US",
+        "latitude": 33.9753,
+        "longitude": -117.6361,
+        "elevation": 198.1
+    },
+    "USW00003166": {
+        "station": "FULLERTON",
+        "state": "CA",
+        "country": "US",
+        "latitude": 33.8719,
+        "longitude": -117.9789,
+        "elevation": 29.3
+    },
+    "USW00003167": {
+        "station": "HAWTHORNE MUNI",
+        "state": "CA",
+        "country": "US",
+        "latitude": 33.9228,
+        "longitude": -118.3342,
+        "elevation": 19.2
+    },
+    "USW00023129": {
+        "station": "LONG BEACH DAUGHERTY FLD",
+        "state": "CA",
+        "country": "US",
+        "latitude": 33.8117,
+        "longitude": -118.1464,
+        "elevation": 9.4
+    },
+    "USW00023174": {
+        "station": "LAX",
+        "state": "CA",
+        "country": "US",
+        "latitude": 33.9381,
+        "longitude": -118.3889,
+        "elevation": 29.6
+    },
+    "USW00003102": {
+        "station": "ONTARIO",
+        "state": "CA",
+        "country": "US",
+        "latitude": 34.0561,
+        "longitude": -117.6003,
+        "elevation": 289.3
+    },
+    "USW00093111": {
+        "station": "POINT MUGU",
+        "state": "CA",
+        "country": "US",
+        "latitude": 34.1167,
+        "longitude": -119.1167,
+        "elevation": 4
+    },
+    "USW00003171": {
+        "station": "RIVERSIDE",
+        "state": "CA",
+        "country": "US",
+        "latitude": 33.9519,
+        "longitude": -117.4386,
+        "elevation": 245.4
+    },
+    "USW00093184": {
+        "station": "SANTA ANA",
+        "state": "CA",
+        "country": "US",
+        "latitude": 33.68,
+        "longitude": -117.8664,
+        "elevation": 16.5
+    },
+    "USW00093197": {
+        "station": "SANTA MONICA",
+        "state": "CA",
+        "country": "US",
+        "latitude": 34.0158,
+        "longitude": -118.4514,
+        "elevation": 53
+    },
+    "USW00023130": {
+        "station": "VAN NUYS",
+        "state": "CA",
+        "country": "US",
+        "latitude": 34.2097,
+        "longitude": -118.4892,
+        "elevation": 234.7
+    }
+}
