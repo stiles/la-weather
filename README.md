@@ -1,11 +1,11 @@
 # How's the weather in LA?
 
-### About this project 
+## About this project 
 This project a non-commercial exercise in data automation, analysis and presentation that collects [National Weather Service](https://www.weather.gov/lox) forecast data for various locations in the Los Angeles area.
 
 *It will grow over time, adding more documentation, additional forecast details, historic [climate normals](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00824) and, ultimately, a regularly updating static web application.*
 
-### Scope
+## Scope
 
 The project collects data from several sources, some live and some historical. 
 
@@ -19,13 +19,13 @@ The project collects data from several sources, some live and some historical.
 
 *More to come.*
 
-### Collection and locations
+## Collection and locations
 
 The data are fetched using Python scripts that read data from a variety of sources. The daily and hourly seven-day forecasts are captured from XML files served dynamically by the weather service based on longitude and latitude parameters passed for each place. 
 
 These comes from `data/reference/socal_stations_daily.json` file: 
 
-```python
+```json
  {
    ...
     "USW00023129": {
@@ -66,12 +66,11 @@ The XML files for each location are fetched from these URLs:
 
 [`https://forecast.weather.gov/MapClick.php?lat=33.9159&lon=-118.4097&unit=0&lg=english&FcstType=dwml`](https://forecast.weather.gov/MapClick.php?lat=33.9159&lon=-118.4097&unit=0&lg=english&FcstType=dwml)
 
-### Outputs
+## Outputs
 
+### Airports
 
-#### Airports
-
-```python
+```json
 {
     "station": "Station Name",
     "time": "ISO 8601 Timestamp",
@@ -82,9 +81,7 @@ The XML files for each location are fetched from these URLs:
 }
 ```
 
-#### Normals
-
-**Daily normals example**
+### Daily normals example
 
 | Key              | Description                                     | Example          |
 |------------------|-------------------------------------------------|------------------|
@@ -99,7 +96,7 @@ The XML files for each location are fetched from these URLs:
 | latitude         | Latitude of the station                         | 33.8647          |
 | longitude        | Longitude of the station                        | -117.8425        |
 
-**Hourly normals example**
+### Hourly normals example
 
 | Key              | Description                                     | Example                          |
 |------------------|-------------------------------------------------|----------------------------------|
@@ -119,11 +116,9 @@ The XML files for each location are fetched from these URLs:
 | longitude        | Longitude of the station                        | -118.3889                        |
 | elevation        | Elevation of the station in meters              | 29.6                             |
 
-#### Forecasts
+### Seven-day daily forecast
 
-**Seven-day daily:**
-
-```python
+```json
 [
     {
         "location": "Location Name",
@@ -141,9 +136,9 @@ The XML files for each location are fetched from these URLs:
 ]
 ```
 
-**Seven-day hour:**
+### Seven-day hourly forecast
 
-```python
+```json
 [
     {
         "location": "Location Name",
