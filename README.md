@@ -1,7 +1,7 @@
 # How's the weather in LA?
 
 ## About this project 
-This project a non-commercial exercise in data automation, analysis and presentation that collects [National Weather Service](https://www.weather.gov/lox) forecast data for various locations in the Los Angeles area.
+This project a non-commercial exercise in data automation, analysis and presentation that collects [National Weather Service](https://www.weather.gov/lox) forecast information for various locations in the Los Angeles area.
 
 *It will grow over time, adding more documentation, additional forecast details, historic [climate normals](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00824) and, ultimately, a regularly updating static web application.*
 
