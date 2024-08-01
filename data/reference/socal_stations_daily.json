@@ -80,7 +80,7 @@
         "elevation": 155.8
     },
     "USW00003167": {
-        "station": "HAWTHORNE MUNI",
+        "station": "HAWTHORNE",
         "state": "CA",
         "country": "US",
         "latitude": 33.9228,
@@ -88,7 +88,7 @@
         "elevation": 19.2
     },
     "USC00044303": {
-        "station": "IRVINE RCH",
+        "station": "IRVINE",
         "state": "CA",
         "country": "US",
         "latitude": 33.72,
@@ -96,7 +96,7 @@
         "elevation": 164.6
     },
     "USW00023129": {
-        "station": "LONG BEACH DAUGHERTY FLD",
+        "station": "LONG BEACH",
         "state": "CA",
         "country": "US",
         "latitude": 33.8117,
@@ -104,7 +104,7 @@
         "elevation": 9.4
     },
     "USW00093134": {
-        "station": "LOS ANGELES DOWNTOWN",
+        "station": "DOWNTOWN LOS ANGELES",
         "state": "CA",
         "country": "US",
         "latitude": 34.0511,
@@ -144,7 +144,7 @@
         "elevation": 289.3
     },
     "USC00046572": {
-        "station": "OXNARDO",
+        "station": "OXNARD",
         "state": "CA",
         "country": "US",
         "latitude": 34.2067,
@@ -152,7 +152,7 @@
         "elevation": 15.8
     },
     "USC00046663": {
-        "station": "PALOS VERDES",
+        "station": "RANCHO PALOS VERDES",
         "state": "CA",
         "country": "US",
         "latitude": 33.7997,

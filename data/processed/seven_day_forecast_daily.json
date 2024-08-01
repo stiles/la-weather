@@ -1,0 +1,2440 @@
+[
+  {
+    "location": "Altadena",
+    "current_as_of": "2024-07-31T19:14:16-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 90,
+        "word_forecast": "Partly sunny, with a high near 90. Calm wind becoming south southwest around 5 mph in the morning. ",
+        "weather": "Partly Sunny"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 91,
+        "word_forecast": "Mostly sunny, with a high near 91. Light and variable wind becoming southwest 5 to 10 mph in the afternoon. ",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 93,
+        "word_forecast": "Sunny, with a high near 93.",
+        "weather": "Sunny"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 94,
+        "word_forecast": "Sunny, with a high near 94.",
+        "weather": "Sunny"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 96,
+        "word_forecast": "Mostly sunny and hot, with a high near 96.",
+        "weather": "Hot"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 97,
+        "word_forecast": "Mostly sunny and hot, with a high near 97.",
+        "weather": "Hot"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 96,
+        "word_forecast": "Sunny and hot, with a high near 96.",
+        "weather": "Hot"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 63,
+        "word_forecast": "Mostly clear, with a low around 63. Southwest wind around 5 mph becoming calm  in the evening. ",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 66,
+        "word_forecast": "A 20 percent chance of showers and thunderstorms after 11pm.  Partly cloudy, with a low around 66. West southwest wind around 5 mph becoming calm  in the evening. ",
+        "probability_of_precipitation": 20,
+        "weather": "Slight Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 67,
+        "word_forecast": "Partly cloudy, with a low around 67. Southwest wind around 5 mph becoming calm  in the evening. ",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 67,
+        "word_forecast": "Mostly clear, with a low around 67.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 67,
+        "word_forecast": "Mostly clear, with a low around 67.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 68,
+        "word_forecast": "Partly cloudy, with a low around 68.",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 68,
+        "word_forecast": "Mostly clear, with a low around 68.",
+        "weather": "Mostly Clear"
+      }
+    }
+  },
+  {
+    "location": "Placentia",
+    "current_as_of": "2024-07-31T12:47:01-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 86,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, partly sunny, with a high near 86. Light southwest wind increasing to 5 to 10 mph in the afternoon. ",
+        "weather": "Patchy Fog then Mostly Sunny"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 90,
+        "word_forecast": "Mostly sunny, with a high near 90. Light southwest wind increasing to 5 to 10 mph in the afternoon. Winds could gust as high as 20 mph. ",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 91,
+        "word_forecast": "Sunny, with a high near 91.",
+        "weather": "Sunny"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 91,
+        "word_forecast": "Sunny, with a high near 91.",
+        "weather": "Sunny"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 92,
+        "word_forecast": "Mostly sunny, with a high near 92.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 92,
+        "word_forecast": "Mostly sunny, with a high near 92.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 91,
+        "word_forecast": "Mostly sunny, with a high near 91.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 64,
+        "word_forecast": "Patchy fog after 2am.  Otherwise, increasing clouds, with a low around 64. Southwest wind 5 to 10 mph becoming light  in the evening. ",
+        "weather": "Mostly Clear then Patchy Fog"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 67,
+        "word_forecast": "A slight chance of showers and thunderstorms.  Partly cloudy, with a low around 67. Southwest wind around 5 mph becoming calm  in the evening.  Chance of precipitation is 20%.",
+        "probability_of_precipitation": 20,
+        "weather": "Slight Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 68,
+        "word_forecast": "Mostly clear, with a low around 68. Southwest wind around 5 mph becoming calm  in the evening. ",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 68,
+        "word_forecast": "Mostly clear, with a low around 68.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 69,
+        "word_forecast": "Mostly clear, with a low around 69.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 70,
+        "word_forecast": "Partly cloudy, with a low around 70.",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 70,
+        "word_forecast": "Mostly clear, with a low around 70.",
+        "weather": "Mostly Clear"
+      }
+    }
+  },
+  {
+    "location": "BURBANK",
+    "current_as_of": "2024-07-31T19:14:16-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 91,
+        "word_forecast": "Mostly sunny, with a high near 91. Calm wind becoming south around 5 mph in the morning. ",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 91,
+        "word_forecast": "Mostly sunny, with a high near 91. South wind 5 to 10 mph. ",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 93,
+        "word_forecast": "Sunny, with a high near 93.",
+        "weather": "Sunny"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 94,
+        "word_forecast": "Sunny, with a high near 94.",
+        "weather": "Sunny"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 94,
+        "word_forecast": "Mostly sunny, with a high near 94.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 94,
+        "word_forecast": "Mostly sunny, with a high near 94.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 93,
+        "word_forecast": "Sunny, with a high near 93.",
+        "weather": "Sunny"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 64,
+        "word_forecast": "Mostly clear, with a low around 64. South southeast wind 5 to 10 mph. ",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 68,
+        "word_forecast": "A 20 percent chance of showers and thunderstorms after 11pm.  Partly cloudy, with a low around 68. South southeast wind 5 to 10 mph becoming light  after midnight. ",
+        "probability_of_precipitation": 20,
+        "weather": "Slight Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 68,
+        "word_forecast": "Partly cloudy, with a low around 68. Southwest wind 5 to 10 mph becoming light and variable  in the evening. ",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 68,
+        "word_forecast": "Mostly clear, with a low around 68.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 68,
+        "word_forecast": "Mostly clear, with a low around 68.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 69,
+        "word_forecast": "Mostly clear, with a low around 69.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 69,
+        "word_forecast": "Mostly clear, with a low around 69.",
+        "weather": "Mostly Clear"
+      }
+    }
+  },
+  {
+    "location": "CAMARILLO",
+    "current_as_of": "2024-07-31T19:14:16-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 79,
+        "word_forecast": "Patchy dense fog before 11am.  Otherwise, partly sunny, with a high near 79. Light west southwest wind increasing to 5 to 10 mph in the afternoon. ",
+        "weather": "Patchy Dense Fog then Mostly Sunny"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 82,
+        "word_forecast": "Mostly sunny, with a high near 82. Light south wind becoming west southwest 5 to 10 mph in the morning. Winds could gust as high as 15 mph. ",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 83,
+        "word_forecast": "Mostly sunny, with a high near 83.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 84,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, partly sunny, with a high near 84.",
+        "weather": "Patchy Fog then Sunny"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 84,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, partly sunny, with a high near 84.",
+        "weather": "Patchy Fog then Mostly Sunny"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 86,
+        "word_forecast": "Patchy fog.  Otherwise, partly sunny, with a high near 86.",
+        "weather": "Patchy Fog then Mostly Sunny"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 85,
+        "word_forecast": "Mostly sunny, with a high near 85.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 61,
+        "word_forecast": "Patchy dense fog after 11pm.  Otherwise, increasing clouds, with a low around 61. West southwest wind 5 to 10 mph. ",
+        "weather": "Patchy Dense Fog"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 64,
+        "word_forecast": "A 20 percent chance of showers and thunderstorms after 11pm.  Partly cloudy, with a low around 64. West southwest wind 5 to 10 mph becoming light southwest  in the evening. ",
+        "probability_of_precipitation": 20,
+        "weather": "Slight Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 64,
+        "word_forecast": "Partly cloudy, with a low around 64. West wind 5 to 10 mph becoming light and variable  in the evening. ",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 64,
+        "word_forecast": "Partly cloudy, with a low around 64.",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 64,
+        "word_forecast": "Patchy fog after 11pm.  Otherwise, mostly cloudy, with a low around 64.",
+        "weather": "Patchy Fog"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 65,
+        "word_forecast": "Patchy fog.  Otherwise, mostly cloudy, with a low around 65.",
+        "weather": "Patchy Fog"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 65,
+        "word_forecast": "Partly cloudy, with a low around 65.",
+        "weather": "Partly Cloudy"
+      }
+    }
+  },
+  {
+    "location": "Chino Airport",
+    "current_as_of": "2024-07-31T12:47:01-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 96,
+        "word_forecast": "Mostly sunny, with a high near 96. Light southwest wind becoming west 10 to 15 mph in the afternoon. Winds could gust as high as 25 mph. ",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 98,
+        "word_forecast": "Mostly sunny, with a high near 98. Light west wind increasing to 10 to 15 mph in the afternoon. Winds could gust as high as 20 mph. ",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 100,
+        "word_forecast": "Sunny, with a high near 100.",
+        "weather": "Sunny"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 100,
+        "word_forecast": "Sunny, with a high near 100.",
+        "weather": "Sunny"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 100,
+        "word_forecast": "Sunny, with a high near 100.",
+        "weather": "Sunny"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 101,
+        "word_forecast": "Sunny, with a high near 101.",
+        "weather": "Sunny"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 100,
+        "word_forecast": "Sunny, with a high near 100.",
+        "weather": "Sunny"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 61,
+        "word_forecast": "Mostly clear, with a low around 61. West wind 5 to 15 mph, with gusts as high as 20 mph. ",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 66,
+        "word_forecast": "A slight chance of showers and thunderstorms.  Partly cloudy, with a low around 66. West wind 10 to 15 mph becoming light  after midnight. Winds could gust as high as 20 mph.  Chance of precipitation is 20%.",
+        "probability_of_precipitation": 20,
+        "weather": "Slight Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 66,
+        "word_forecast": "Mostly clear, with a low around 66. Southwest wind 5 to 10 mph becoming light and variable  in the evening. ",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 67,
+        "word_forecast": "Mostly clear, with a low around 67.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 67,
+        "word_forecast": "Mostly clear, with a low around 67.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 68,
+        "word_forecast": "Mostly clear, with a low around 68.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 67,
+        "word_forecast": "Mostly clear, with a low around 67.",
+        "weather": "Mostly Clear"
+      }
+    }
+  },
+  {
+    "location": "CORONA",
+    "current_as_of": "2024-07-31T12:47:01-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 97,
+        "word_forecast": "Mostly sunny, with a high near 97. Calm wind becoming northwest around 5 mph in the afternoon. ",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 101,
+        "word_forecast": "Mostly sunny, with a high near 101. Light and variable wind becoming west 5 to 10 mph in the afternoon. ",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 102,
+        "word_forecast": "Sunny, with a high near 102.",
+        "weather": "Sunny"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 102,
+        "word_forecast": "Sunny, with a high near 102.",
+        "weather": "Sunny"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 103,
+        "word_forecast": "Sunny, with a high near 103.",
+        "weather": "Sunny"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 103,
+        "word_forecast": "Sunny, with a high near 103.",
+        "weather": "Sunny"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 102,
+        "word_forecast": "Sunny, with a high near 102.",
+        "weather": "Sunny"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 66,
+        "word_forecast": "Mostly clear, with a low around 66. North wind around 5 mph becoming calm  in the evening. ",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 69,
+        "word_forecast": "A slight chance of showers and thunderstorms.  Partly cloudy, with a low around 69. North wind around 5 mph becoming calm  in the evening.  Chance of precipitation is 20%.",
+        "probability_of_precipitation": 20,
+        "weather": "Slight Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 71,
+        "word_forecast": "Mostly clear, with a low around 71. West wind around 5 mph becoming calm  in the evening. ",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 71,
+        "word_forecast": "Mostly clear, with a low around 71.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 72,
+        "word_forecast": "Mostly clear, with a low around 72.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 73,
+        "word_forecast": "Mostly clear, with a low around 73.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 72,
+        "word_forecast": "Mostly clear, with a low around 72.",
+        "weather": "Mostly Clear"
+      }
+    }
+  },
+  {
+    "location": "Culver City",
+    "current_as_of": "2024-07-31T19:14:16-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 76,
+        "word_forecast": "Patchy dense fog before 11am.  Otherwise, partly sunny, with a high near 76. Southwest wind 5 to 10 mph. ",
+        "weather": "Patchy Dense Fog then Partly Sunny"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 78,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, cloudy through mid morning, then gradual clearing, with a high near 78. Light west southwest wind becoming southwest 5 to 10 mph in the morning. Winds could gust as high as 15 mph. ",
+        "weather": "Patchy Fog then Sunny"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 78,
+        "word_forecast": "Mostly sunny, with a high near 78.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 79,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, partly sunny, with a high near 79.",
+        "weather": "Patchy Fog then Sunny"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 81,
+        "word_forecast": "Partly sunny, with a high near 81.",
+        "weather": "Partly Sunny"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 82,
+        "word_forecast": "Mostly sunny, with a high near 82.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 82,
+        "word_forecast": "Mostly sunny, with a high near 82.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 59,
+        "word_forecast": "Patchy dense fog after 11pm.  Otherwise, mostly cloudy, with a low around 59. Southwest wind 5 to 10 mph. ",
+        "weather": "Patchy Dense Fog"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 62,
+        "word_forecast": "A 20 percent chance of showers and thunderstorms after 11pm.  Increasing clouds, with a low around 62. Southwest wind 5 to 10 mph. ",
+        "probability_of_precipitation": 20,
+        "weather": "Slight Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 63,
+        "word_forecast": "Partly cloudy, with a low around 63. West southwest wind 5 to 10 mph becoming light south  in the evening. ",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 65,
+        "word_forecast": "Partly cloudy, with a low around 65.",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 65,
+        "word_forecast": "Partly cloudy, with a low around 65.",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 66,
+        "word_forecast": "Partly cloudy, with a low around 66.",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 66,
+        "word_forecast": "Partly cloudy, with a low around 66.",
+        "weather": "Partly Cloudy"
+      }
+    }
+  },
+  {
+    "location": "ELSINORE",
+    "current_as_of": "2024-07-31T12:47:01-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 100,
+        "word_forecast": "Mostly sunny, with a high near 100. Calm wind becoming southwest around 5 mph in the afternoon. ",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 103,
+        "word_forecast": "Mostly sunny, with a high near 103. Calm wind becoming west around 5 mph in the afternoon. ",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 105,
+        "word_forecast": "Sunny, with a high near 105.",
+        "weather": "Sunny"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 105,
+        "word_forecast": "Sunny, with a high near 105.",
+        "weather": "Sunny"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 106,
+        "word_forecast": "Sunny, with a high near 106.",
+        "weather": "Sunny"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 106,
+        "word_forecast": "Sunny, with a high near 106.",
+        "weather": "Sunny"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 104,
+        "word_forecast": "Sunny, with a high near 104.",
+        "weather": "Sunny"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 66,
+        "word_forecast": "Mostly clear, with a low around 66. North wind around 5 mph becoming calm  in the evening. ",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 70,
+        "word_forecast": "A slight chance of showers and thunderstorms.  Partly cloudy, with a low around 70. North wind around 5 mph becoming calm.  Chance of precipitation is 20%.",
+        "probability_of_precipitation": 20,
+        "weather": "Slight Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 71,
+        "word_forecast": "Mostly clear, with a low around 71. West wind around 5 mph becoming calm  in the evening. ",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 72,
+        "word_forecast": "Mostly clear, with a low around 72.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 72,
+        "word_forecast": "Mostly clear, with a low around 72.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 73,
+        "word_forecast": "Mostly clear, with a low around 73.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 72,
+        "word_forecast": "Mostly clear, with a low around 72.",
+        "weather": "Mostly Clear"
+      }
+    }
+  },
+  {
+    "location": "Fullerton Municipal",
+    "current_as_of": "2024-07-31T12:47:01-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 85,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, partly sunny, with a high near 85. Light south wind becoming southwest 5 to 10 mph in the afternoon. ",
+        "weather": "Patchy Fog then Partly Sunny"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 90,
+        "word_forecast": "Mostly sunny, with a high near 90. Light southwest wind increasing to 5 to 10 mph in the afternoon. ",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 90,
+        "word_forecast": "Sunny, with a high near 90.",
+        "weather": "Sunny"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 89,
+        "word_forecast": "Mostly sunny, with a high near 89.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 90,
+        "word_forecast": "Mostly sunny, with a high near 90.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 91,
+        "word_forecast": "Mostly sunny, with a high near 91.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 90,
+        "word_forecast": "Mostly sunny, with a high near 90.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 64,
+        "word_forecast": "Patchy fog after 2am.  Otherwise, increasing clouds, with a low around 64. Southwest wind around 5 mph becoming calm  in the evening. ",
+        "weather": "Mostly Clear then Patchy Fog"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 67,
+        "word_forecast": "A slight chance of showers and thunderstorms.  Partly cloudy, with a low around 67. West wind around 5 mph becoming calm  in the evening.  Chance of precipitation is 20%.",
+        "probability_of_precipitation": 20,
+        "weather": "Slight Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 67,
+        "word_forecast": "Mostly clear, with a low around 67. Southwest wind around 5 mph becoming calm  in the evening. ",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 67,
+        "word_forecast": "Mostly clear, with a low around 67.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 67,
+        "word_forecast": "Partly cloudy, with a low around 67.",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 69,
+        "word_forecast": "Partly cloudy, with a low around 69.",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 69,
+        "word_forecast": "Partly cloudy, with a low around 69.",
+        "weather": "Partly Cloudy"
+      }
+    }
+  },
+  {
+    "location": "Burbank",
+    "current_as_of": "2024-07-31T19:14:16-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 89,
+        "word_forecast": "Mostly sunny, with a high near 89. South wind around 5 mph. ",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 91,
+        "word_forecast": "Mostly sunny, with a high near 91. Light south southeast wind becoming south southwest 5 to 10 mph in the afternoon. ",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 92,
+        "word_forecast": "Sunny, with a high near 92.",
+        "weather": "Sunny"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 94,
+        "word_forecast": "Sunny, with a high near 94.",
+        "weather": "Sunny"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 95,
+        "word_forecast": "Mostly sunny, with a high near 95.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 96,
+        "word_forecast": "Mostly sunny and hot, with a high near 96.",
+        "weather": "Hot"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 95,
+        "word_forecast": "Sunny, with a high near 95.",
+        "weather": "Sunny"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 63,
+        "word_forecast": "Mostly clear, with a low around 63. South wind around 5 mph. ",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 67,
+        "word_forecast": "A 20 percent chance of showers and thunderstorms after 11pm.  Partly cloudy, with a low around 67. South wind around 5 mph becoming calm  after midnight. ",
+        "probability_of_precipitation": 20,
+        "weather": "Slight Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 68,
+        "word_forecast": "Partly cloudy, with a low around 68. Southwest wind around 5 mph becoming calm  in the evening. ",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 67,
+        "word_forecast": "Mostly clear, with a low around 67.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 68,
+        "word_forecast": "Mostly clear, with a low around 68.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 69,
+        "word_forecast": "Mostly clear, with a low around 69.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 69,
+        "word_forecast": "Mostly clear, with a low around 69.",
+        "weather": "Mostly Clear"
+      }
+    }
+  },
+  {
+    "location": "Hawthorne Municipal",
+    "current_as_of": "2024-07-31T19:14:16-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 77,
+        "word_forecast": "Patchy dense fog before 11am.  Otherwise, partly sunny, with a high near 77. West southwest wind 5 to 10 mph. ",
+        "weather": "Patchy Dense Fog then Partly Sunny"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 79,
+        "word_forecast": "Mostly sunny, with a high near 79. Light west wind becoming west southwest 10 to 15 mph in the morning. ",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 80,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, partly sunny, with a high near 80.",
+        "weather": "Patchy Fog then Sunny"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 81,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, partly sunny, with a high near 81.",
+        "weather": "Patchy Fog then Mostly Sunny"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 81,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, partly sunny, with a high near 81.",
+        "weather": "Patchy Fog then Mostly Sunny"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 82,
+        "word_forecast": "Partly sunny, with a high near 82.",
+        "weather": "Partly Sunny"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 82,
+        "word_forecast": "Mostly sunny, with a high near 82.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 63,
+        "word_forecast": "Patchy dense fog after 11pm.  Otherwise, mostly cloudy, with a low around 63. West southwest wind 5 to 10 mph. ",
+        "weather": "Patchy Dense Fog"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 64,
+        "word_forecast": "A 20 percent chance of showers and thunderstorms after 11pm.  Mostly cloudy, with a low around 64. West southwest wind 5 to 10 mph. ",
+        "probability_of_precipitation": 20,
+        "weather": "Slight Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 65,
+        "word_forecast": "Partly cloudy, with a low around 65. West southwest wind 5 to 10 mph becoming light southwest  in the evening. ",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 65,
+        "word_forecast": "Partly cloudy, with a low around 65.",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 65,
+        "word_forecast": "Patchy fog after 11pm.  Otherwise, mostly cloudy, with a low around 65.",
+        "weather": "Patchy Fog"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 66,
+        "word_forecast": "Partly cloudy, with a low around 66.",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 66,
+        "word_forecast": "Partly cloudy, with a low around 66.",
+        "weather": "Partly Cloudy"
+      }
+    }
+  },
+  {
+    "location": "IRVINE",
+    "current_as_of": "2024-07-31T12:47:01-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 84,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, mostly sunny, with a high near 84. Light west wind increasing to 5 to 10 mph in the afternoon. ",
+        "weather": "Patchy Fog then Mostly Sunny"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 88,
+        "word_forecast": "Mostly sunny, with a high near 88. Light west wind increasing to 5 to 10 mph in the afternoon. ",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 89,
+        "word_forecast": "Sunny, with a high near 89.",
+        "weather": "Sunny"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 89,
+        "word_forecast": "Mostly sunny, with a high near 89.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 90,
+        "word_forecast": "Mostly sunny, with a high near 90.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 91,
+        "word_forecast": "Mostly sunny, with a high near 91.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 89,
+        "word_forecast": "Partly sunny, then gradually becoming sunny, with a high near 89.",
+        "weather": "Becoming Sunny"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 62,
+        "word_forecast": "Patchy fog after 2am.  Otherwise, increasing clouds, with a low around 62. West wind around 5 mph becoming calm  in the evening. ",
+        "weather": "Mostly Clear then Patchy Fog"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 65,
+        "word_forecast": "A slight chance of showers and thunderstorms.  Partly cloudy, with a low around 65. West wind around 5 mph becoming calm  in the evening.  Chance of precipitation is 20%.",
+        "probability_of_precipitation": 20,
+        "weather": "Slight Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 66,
+        "word_forecast": "Mostly clear, with a low around 66. Southwest wind around 5 mph becoming calm  in the evening. ",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 66,
+        "word_forecast": "Increasing clouds, with a low around 66.",
+        "weather": "Increasing Clouds"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 67,
+        "word_forecast": "Partly cloudy, with a low around 67.",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 68,
+        "word_forecast": "Partly cloudy, with a low around 68.",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 68,
+        "word_forecast": "Partly cloudy, with a low around 68.",
+        "weather": "Partly Cloudy"
+      }
+    }
+  },
+  {
+    "location": "Long Beach Airport",
+    "current_as_of": "2024-07-31T19:14:16-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 84,
+        "word_forecast": "Patchy dense fog before 11am.  Otherwise, mostly cloudy, with a high near 84. West southwest wind 5 to 10 mph. ",
+        "weather": "Patchy Dense Fog then Partly Sunny"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 85,
+        "word_forecast": "Mostly sunny, with a high near 85. Light west wind becoming west southwest 5 to 10 mph in the morning. ",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 86,
+        "word_forecast": "Mostly sunny, with a high near 86.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 87,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, partly sunny, with a high near 87.",
+        "weather": "Patchy Fog then Sunny"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 87,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, partly sunny, with a high near 87.",
+        "weather": "Patchy Fog then Mostly Sunny"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 89,
+        "word_forecast": "Mostly sunny, with a high near 89.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 89,
+        "word_forecast": "Mostly sunny, with a high near 89.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 62,
+        "word_forecast": "Increasing clouds, with a low around 62. West wind 5 to 10 mph becoming light west southwest  after midnight. ",
+        "weather": "Increasing Clouds"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 65,
+        "word_forecast": "A 20 percent chance of showers and thunderstorms after 11pm.  Partly cloudy, with a low around 65. West wind 5 to 10 mph becoming light and variable  in the evening. ",
+        "probability_of_precipitation": 20,
+        "weather": "Slight Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 66,
+        "word_forecast": "Partly cloudy, with a low around 66. West southwest wind 5 to 10 mph becoming light southwest  in the evening. ",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 67,
+        "word_forecast": "Partly cloudy, with a low around 67.",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 67,
+        "word_forecast": "Patchy fog after 11pm.  Otherwise, mostly cloudy, with a low around 67.",
+        "weather": "Patchy Fog"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 68,
+        "word_forecast": "Partly cloudy, with a low around 68.",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 68,
+        "word_forecast": "Partly cloudy, with a low around 68.",
+        "weather": "Partly Cloudy"
+      }
+    }
+  },
+  {
+    "location": "Los Angeles",
+    "current_as_of": "2024-07-31T19:14:16-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 85,
+        "word_forecast": "Partly sunny, with a high near 85. Southwest wind 5 to 10 mph. ",
+        "weather": "Partly Sunny"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 87,
+        "word_forecast": "Mostly sunny, with a high near 87. Light southwest wind increasing to 5 to 10 mph in the afternoon. ",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 88,
+        "word_forecast": "Sunny, with a high near 88.",
+        "weather": "Sunny"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 89,
+        "word_forecast": "Mostly sunny, with a high near 89.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 89,
+        "word_forecast": "Mostly sunny, with a high near 89.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 90,
+        "word_forecast": "Mostly sunny, with a high near 90.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 89,
+        "word_forecast": "Mostly sunny, with a high near 89.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 60,
+        "word_forecast": "Patchy dense fog after 11pm.  Otherwise, partly cloudy, with a low around 60. Southwest wind 5 to 10 mph. ",
+        "weather": "Patchy Dense Fog"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 64,
+        "word_forecast": "A 20 percent chance of showers and thunderstorms after 11pm.  Partly cloudy, with a low around 64. Southwest wind 5 to 10 mph. ",
+        "probability_of_precipitation": 20,
+        "weather": "Slight Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 65,
+        "word_forecast": "Partly cloudy, with a low around 65. Southwest wind 5 to 10 mph becoming light south  in the evening. ",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 66,
+        "word_forecast": "Mostly clear, with a low around 66.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 67,
+        "word_forecast": "Partly cloudy, with a low around 67.",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 67,
+        "word_forecast": "Partly cloudy, with a low around 67.",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 67,
+        "word_forecast": "Partly cloudy, with a low around 67.",
+        "weather": "Partly Cloudy"
+      }
+    }
+  },
+  {
+    "location": "Los Angeles International Airport",
+    "current_as_of": "2024-07-31T19:14:16-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 74,
+        "word_forecast": "Patchy dense fog before 11am.  Otherwise, mostly cloudy, with a high near 74. West southwest wind 5 to 10 mph. ",
+        "weather": "Patchy Dense Fog then Partly Sunny"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 76,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, cloudy, then gradually becoming mostly sunny, with a high near 76. Light west wind becoming west southwest 10 to 15 mph in the morning. ",
+        "weather": "Patchy Fog then Mostly Sunny"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 76,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, partly sunny, with a high near 76.",
+        "weather": "Patchy Fog then Mostly Sunny"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 76,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, partly sunny, with a high near 76.",
+        "weather": "Patchy Fog then Mostly Sunny"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 77,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, partly sunny, with a high near 77.",
+        "weather": "Patchy Fog then Mostly Sunny"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 79,
+        "word_forecast": "Partly sunny, with a high near 79.",
+        "weather": "Partly Sunny"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 78,
+        "word_forecast": "Mostly sunny, with a high near 78.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 63,
+        "word_forecast": "Patchy dense fog.  Otherwise, mostly cloudy, with a low around 63. West southwest wind 5 to 10 mph. ",
+        "weather": "Patchy Dense Fog"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 64,
+        "word_forecast": "A 20 percent chance of showers and thunderstorms after 11pm.  Increasing clouds, with a low around 64. West southwest wind 5 to 10 mph. ",
+        "probability_of_precipitation": 20,
+        "weather": "Slight Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 64,
+        "word_forecast": "Partly cloudy, with a low around 64. Southwest wind 5 to 15 mph. ",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 63,
+        "word_forecast": "Partly cloudy, with a low around 63.",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 64,
+        "word_forecast": "Patchy fog after 11pm.  Otherwise, mostly cloudy, with a low around 64.",
+        "weather": "Patchy Fog"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 65,
+        "word_forecast": "Mostly cloudy, with a low around 65.",
+        "weather": "Mostly Cloudy"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 65,
+        "word_forecast": "Partly cloudy, with a low around 65.",
+        "weather": "Partly Cloudy"
+      }
+    }
+  },
+  {
+    "location": "Mission Viejo",
+    "current_as_of": "2024-07-31T12:47:01-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 84,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, partly sunny, with a high near 84. Calm wind becoming west around 5 mph in the afternoon. ",
+        "weather": "Patchy Fog then Mostly Sunny"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 87,
+        "word_forecast": "Mostly sunny, with a high near 87. Light west wind increasing to 5 to 10 mph in the afternoon. ",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 88,
+        "word_forecast": "Mostly sunny, with a high near 88.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 89,
+        "word_forecast": "Mostly sunny, with a high near 89.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 89,
+        "word_forecast": "Mostly sunny, with a high near 89.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 90,
+        "word_forecast": "Mostly sunny, with a high near 90.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 88,
+        "word_forecast": "Partly sunny, then gradually becoming sunny, with a high near 88.",
+        "weather": "Becoming Sunny"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 61,
+        "word_forecast": "Patchy fog after 2am.  Otherwise, increasing clouds, with a low around 61. West wind around 5 mph becoming calm  in the evening. ",
+        "weather": "Mostly Clear then Patchy Fog"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 64,
+        "word_forecast": "A slight chance of showers and thunderstorms.  Partly cloudy, with a low around 64. West wind around 5 mph becoming calm  in the evening.  Chance of precipitation is 20%.",
+        "probability_of_precipitation": 20,
+        "weather": "Slight Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 65,
+        "word_forecast": "Partly cloudy, with a low around 65. West wind around 5 mph becoming calm  in the evening. ",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 65,
+        "word_forecast": "Mostly clear, with a low around 65.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 67,
+        "word_forecast": "Partly cloudy, with a low around 67.",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 67,
+        "word_forecast": "Partly cloudy, with a low around 67.",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 67,
+        "word_forecast": "Partly cloudy, with a low around 67.",
+        "weather": "Partly Cloudy"
+      }
+    }
+  },
+  {
+    "location": "NEWPORT BEACH",
+    "current_as_of": "2024-07-31T19:14:16-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 77,
+        "word_forecast": "Variable winds 5 kt or less. Patchy dense fog before 11am.  N swell 0 ft at 0 seconds. Wind waves 1 ft or less.",
+        "weather": " "
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 74,
+        "word_forecast": "Variable winds less than 5 kt becoming WSW 5 to 10 kt in the afternoon. Patchy fog before 11am.  N swell 0 ft. Wind waves 1 ft or less.",
+        "weather": " "
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 75,
+        "word_forecast": "Variable winds less than 5 kt becoming WSW 5 to 10 kt in the afternoon. Patchy fog before 11am.  N swell 0 ft. Wind waves 1 ft or less.",
+        "weather": " "
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 76,
+        "word_forecast": "Variable winds 5 kt or less. Patchy fog before 11am.  N swell 0 ft. Wind waves 1 ft or less.",
+        "weather": " "
+      },
+      "2024-07-31T18:00:00-07:00": {
+        "daily_minimum_temperature": 63,
+        "word_forecast": "WSW wind 5 to 10 kt. Patchy dense fog after 11pm.  N swell 0 ft at 0 seconds. Wind waves 1 ft or less.",
+        "weather": " "
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 64,
+        "word_forecast": "W wind 5 to 10 kt. A slight chance of showers and thunderstorms after 11pm.   N swell 0 ft at 0 seconds. Wind waves 1 ft or less.",
+        "weather": " "
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 65,
+        "word_forecast": "WSW wind 5 to 10 kt becoming variable and less than 5 kt in the evening. Partly cloudy. N swell 0 ft. Wind waves 1 ft or less.",
+        "weather": " "
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 65,
+        "word_forecast": "WNW wind 5 to 10 kt becoming variable and less than 5 kt in the evening. Partly cloudy. N swell 0 ft. Wind waves 1 ft or less.",
+        "weather": " "
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 66,
+        "word_forecast": "WSW wind 5 to 10 kt becoming variable and less than 5 kt in the evening. Patchy fog after 11pm.  N swell 0 ft. Wind waves 1 ft or less.",
+        "weather": " "
+      }
+    }
+  },
+  {
+    "location": "Ontario International Arpt",
+    "current_as_of": "2024-07-31T12:47:01-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 94,
+        "word_forecast": "Mostly sunny, with a high near 94. Light southwest wind becoming west 5 to 10 mph in the afternoon. Winds could gust as high as 20 mph. ",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 96,
+        "word_forecast": "Mostly sunny, with a high near 96. Light southwest wind increasing to 5 to 10 mph in the afternoon. Winds could gust as high as 20 mph. ",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 98,
+        "word_forecast": "Sunny, with a high near 98.",
+        "weather": "Sunny"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 99,
+        "word_forecast": "Sunny, with a high near 99.",
+        "weather": "Sunny"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 99,
+        "word_forecast": "Sunny, with a high near 99.",
+        "weather": "Sunny"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 99,
+        "word_forecast": "Sunny, with a high near 99.",
+        "weather": "Sunny"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 98,
+        "word_forecast": "Sunny, with a high near 98.",
+        "weather": "Sunny"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 66,
+        "word_forecast": "Mostly clear, with a low around 66. West wind 5 to 10 mph, with gusts as high as 20 mph. ",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 69,
+        "word_forecast": "A slight chance of showers and thunderstorms.  Partly cloudy, with a low around 69. West wind 5 to 10 mph becoming light  after midnight. Winds could gust as high as 20 mph.  Chance of precipitation is 20%.",
+        "probability_of_precipitation": 20,
+        "weather": "Slight Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 70,
+        "word_forecast": "Mostly clear, with a low around 70. Southwest wind 5 to 10 mph becoming light and variable  in the evening. ",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 70,
+        "word_forecast": "Mostly clear, with a low around 70.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 71,
+        "word_forecast": "Mostly clear, with a low around 71.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 72,
+        "word_forecast": "Mostly clear, with a low around 72.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 72,
+        "word_forecast": "Mostly clear, with a low around 72.",
+        "weather": "Mostly Clear"
+      }
+    }
+  },
+  {
+    "location": "OXNARD",
+    "current_as_of": "2024-07-31T19:14:16-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 74,
+        "word_forecast": "Patchy dense fog before 11am.  Otherwise, partly sunny, with a high near 74. Light west wind becoming west southwest 5 to 10 mph in the afternoon. ",
+        "weather": "Patchy Dense Fog then Mostly Sunny"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 76,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, cloudy, then gradually becoming mostly sunny, with a high near 76. Light south southwest wind becoming west southwest 5 to 10 mph in the morning. Winds could gust as high as 15 mph. ",
+        "weather": "Patchy Fog then Mostly Sunny"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 77,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, partly sunny, with a high near 77.",
+        "weather": "Patchy Fog then Sunny"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 78,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, partly sunny, with a high near 78.",
+        "weather": "Patchy Fog then Mostly Sunny"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 78,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, partly sunny, with a high near 78.",
+        "weather": "Patchy Fog then Mostly Sunny"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 79,
+        "word_forecast": "Patchy fog.  Otherwise, partly sunny, with a high near 79.",
+        "weather": "Patchy Fog then Mostly Sunny"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 78,
+        "word_forecast": "Mostly sunny, with a high near 78.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 56,
+        "word_forecast": "Patchy dense fog after 11pm.  Otherwise, increasing clouds, with a low around 56. West wind 5 to 10 mph. ",
+        "weather": "Patchy Dense Fog"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 59,
+        "word_forecast": "A 20 percent chance of showers and thunderstorms after 11pm.  Increasing clouds, with a low around 59. West wind 5 to 10 mph becoming light southwest  in the evening. ",
+        "probability_of_precipitation": 20,
+        "weather": "Slight Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 59,
+        "word_forecast": "Partly cloudy, with a low around 59. West wind 5 to 10 mph becoming light and variable  in the evening. ",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 60,
+        "word_forecast": "Partly cloudy, with a low around 60.",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 61,
+        "word_forecast": "Patchy fog after 11pm.  Otherwise, mostly cloudy, with a low around 61.",
+        "weather": "Patchy Fog"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 62,
+        "word_forecast": "Patchy fog.  Otherwise, mostly cloudy, with a low around 62.",
+        "weather": "Patchy Fog"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 62,
+        "word_forecast": "Mostly cloudy, with a low around 62.",
+        "weather": "Mostly Cloudy"
+      }
+    }
+  },
+  {
+    "location": "RANCHO PALOS VERDES",
+    "current_as_of": "2024-07-31T19:14:16-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 72,
+        "word_forecast": "Patchy dense fog before 11am.  Otherwise, mostly cloudy, with a high near 72. Light west southwest wind increasing to 5 to 10 mph in the morning. ",
+        "weather": "Patchy Dense Fog then Mostly Cloudy"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 72,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, cloudy, then gradually becoming mostly sunny, with a high near 72. Light west wind becoming west southwest 5 to 10 mph in the morning. ",
+        "weather": "Patchy Fog then Partly Sunny"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 72,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, partly sunny, with a high near 72.",
+        "weather": "Patchy Fog then Partly Sunny"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 73,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, mostly cloudy, with a high near 73.",
+        "weather": "Patchy Fog then Partly Sunny"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 74,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, mostly cloudy, with a high near 74.",
+        "weather": "Patchy Fog then Partly Sunny"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 75,
+        "word_forecast": "Patchy fog.  Otherwise, mostly cloudy, with a high near 75.",
+        "weather": "Patchy Fog then Partly Sunny"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 75,
+        "word_forecast": "Patchy fog.  Otherwise, partly sunny, with a high near 75.",
+        "weather": "Patchy Fog then Partly Sunny"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 59,
+        "word_forecast": "Patchy dense fog after 11pm.  Otherwise, mostly cloudy, with a low around 59. West southwest wind 5 to 10 mph becoming light  after midnight. ",
+        "weather": "Patchy Dense Fog"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 61,
+        "word_forecast": "A 20 percent chance of showers and thunderstorms after 11pm.  Increasing clouds, with a low around 61. West southwest wind 5 to 10 mph. ",
+        "probability_of_precipitation": 20,
+        "weather": "Slight Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 62,
+        "word_forecast": "Partly cloudy, with a low around 62. West southwest wind 5 to 10 mph becoming light  after midnight. ",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 62,
+        "word_forecast": "Partly cloudy, with a low around 62.",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 63,
+        "word_forecast": "Patchy fog after 11pm.  Otherwise, mostly cloudy, with a low around 63.",
+        "weather": "Patchy Fog"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 64,
+        "word_forecast": "Patchy fog.  Otherwise, mostly cloudy, with a low around 64.",
+        "weather": "Patchy Fog"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 64,
+        "word_forecast": "Patchy fog.  Otherwise, mostly cloudy, with a low around 64.",
+        "weather": "Patchy Fog"
+      }
+    }
+  },
+  {
+    "location": "Pasadena",
+    "current_as_of": "2024-07-31T19:14:16-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 91,
+        "word_forecast": "Partly sunny, with a high near 91. Light south wind becoming south southwest 5 to 10 mph in the morning. ",
+        "weather": "Partly Sunny"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 92,
+        "word_forecast": "Mostly sunny, with a high near 92. Light south wind becoming southwest 5 to 10 mph in the afternoon. ",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 94,
+        "word_forecast": "Sunny, with a high near 94.",
+        "weather": "Sunny"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 94,
+        "word_forecast": "Sunny, with a high near 94.",
+        "weather": "Sunny"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 95,
+        "word_forecast": "Mostly sunny, with a high near 95.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 96,
+        "word_forecast": "Mostly sunny and hot, with a high near 96.",
+        "weather": "Hot"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 95,
+        "word_forecast": "Sunny, with a high near 95.",
+        "weather": "Sunny"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 62,
+        "word_forecast": "Mostly clear, with a low around 62. South wind 5 to 10 mph. ",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 65,
+        "word_forecast": "A 20 percent chance of showers and thunderstorms after 11pm.  Partly cloudy, with a low around 65. West southwest wind around 5 mph becoming calm  in the evening. ",
+        "probability_of_precipitation": 20,
+        "weather": "Slight Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 66,
+        "word_forecast": "Partly cloudy, with a low around 66. Southwest wind around 5 mph becoming calm  in the evening. ",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 65,
+        "word_forecast": "Mostly clear, with a low around 65.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 66,
+        "word_forecast": "Mostly clear, with a low around 66.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 67,
+        "word_forecast": "Mostly clear, with a low around 67.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 66,
+        "word_forecast": "Mostly clear, with a low around 66.",
+        "weather": "Mostly Clear"
+      }
+    }
+  },
+  {
+    "location": "POINT MUGU",
+    "current_as_of": "2024-07-31T19:14:16-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 70,
+        "word_forecast": "Patchy dense fog before 11am.  Otherwise, partly sunny, with a high near 70. Light west northwest wind becoming west 5 to 10 mph in the morning. ",
+        "weather": "Patchy Dense Fog then Mostly Sunny"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 70,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, cloudy, then gradually becoming mostly sunny, with a high near 70. Light west northwest wind becoming west 5 to 10 mph in the morning. ",
+        "weather": "Patchy Fog then Mostly Sunny"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 71,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, partly sunny, with a high near 71.",
+        "weather": "Patchy Fog then Mostly Sunny"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 72,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, partly sunny, with a high near 72.",
+        "weather": "Patchy Fog then Mostly Sunny"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 73,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, mostly cloudy, with a high near 73.",
+        "weather": "Patchy Fog then Partly Sunny"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 73,
+        "word_forecast": "Patchy fog.  Otherwise, mostly cloudy, with a high near 73.",
+        "weather": "Patchy Fog then Partly Sunny"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 73,
+        "word_forecast": "Patchy fog.  Otherwise, partly sunny, with a high near 73.",
+        "weather": "Patchy Fog then Mostly Sunny"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 55,
+        "word_forecast": "Patchy dense fog after 11pm.  Otherwise, increasing clouds, with a low around 55. West northwest wind 5 to 10 mph. ",
+        "weather": "Patchy Dense Fog"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 59,
+        "word_forecast": "A 20 percent chance of showers and thunderstorms after 11pm.  Increasing clouds, with a low around 59. West wind 5 to 10 mph. ",
+        "probability_of_precipitation": 20,
+        "weather": "Slight Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 59,
+        "word_forecast": "Partly cloudy, with a low around 59. West northwest wind 5 to 10 mph becoming light west  after midnight. ",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 60,
+        "word_forecast": "Partly cloudy, with a low around 60.",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 61,
+        "word_forecast": "Patchy fog after 11pm.  Otherwise, mostly cloudy, with a low around 61.",
+        "weather": "Patchy Fog"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 61,
+        "word_forecast": "Patchy fog.  Otherwise, mostly cloudy, with a low around 61.",
+        "weather": "Patchy Fog"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 62,
+        "word_forecast": "Patchy fog.  Otherwise, mostly cloudy, with a low around 62.",
+        "weather": "Patchy Fog"
+      }
+    }
+  },
+  {
+    "location": "REDLANDS",
+    "current_as_of": "2024-07-31T12:47:01-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 97,
+        "word_forecast": "Mostly sunny, with a high near 97. Light west wind increasing to 5 to 10 mph in the afternoon. ",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 99,
+        "word_forecast": "Mostly sunny, with a high near 99. Light and variable wind becoming west 5 to 10 mph in the afternoon. ",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 101,
+        "word_forecast": "Sunny, with a high near 101.",
+        "weather": "Sunny"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 102,
+        "word_forecast": "Sunny, with a high near 102.",
+        "weather": "Sunny"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 102,
+        "word_forecast": "Sunny, with a high near 102.",
+        "weather": "Sunny"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 102,
+        "word_forecast": "Sunny, with a high near 102.",
+        "weather": "Sunny"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 101,
+        "word_forecast": "Sunny, with a high near 101.",
+        "weather": "Sunny"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 67,
+        "word_forecast": "Mostly clear, with a low around 67. West wind 5 to 10 mph becoming light  in the evening. ",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 70,
+        "word_forecast": "A chance of showers and thunderstorms, mainly before 11pm.  Partly cloudy, with a low around 70. West wind 5 to 10 mph becoming light and variable  in the evening.  Chance of precipitation is 30%.",
+        "probability_of_precipitation": 30,
+        "weather": "Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 71,
+        "word_forecast": "Mostly clear, with a low around 71. West wind around 5 mph becoming calm  in the evening. ",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 72,
+        "word_forecast": "Mostly clear, with a low around 72.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 72,
+        "word_forecast": "Mostly clear, with a low around 72.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 73,
+        "word_forecast": "Mostly clear, with a low around 73.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 72,
+        "word_forecast": "Mostly clear, with a low around 72.",
+        "weather": "Mostly Clear"
+      }
+    }
+  },
+  {
+    "location": "Riverside Municipal",
+    "current_as_of": "2024-07-31T12:47:01-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 98,
+        "word_forecast": "Mostly sunny, with a high near 98. Light west wind increasing to 10 to 15 mph in the afternoon. Winds could gust as high as 20 mph. ",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 100,
+        "word_forecast": "Mostly sunny, with a high near 100. Light west wind increasing to 10 to 15 mph in the afternoon. Winds could gust as high as 20 mph. ",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 101,
+        "word_forecast": "Sunny, with a high near 101.",
+        "weather": "Sunny"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 102,
+        "word_forecast": "Sunny, with a high near 102.",
+        "weather": "Sunny"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 102,
+        "word_forecast": "Sunny, with a high near 102.",
+        "weather": "Sunny"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 102,
+        "word_forecast": "Sunny, with a high near 102.",
+        "weather": "Sunny"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 101,
+        "word_forecast": "Sunny, with a high near 101.",
+        "weather": "Sunny"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 65,
+        "word_forecast": "Mostly clear, with a low around 65. West wind 5 to 10 mph becoming light  after midnight. Winds could gust as high as 20 mph. ",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 69,
+        "word_forecast": "A slight chance of showers and thunderstorms.  Partly cloudy, with a low around 69. West wind 5 to 10 mph becoming light  after midnight. Winds could gust as high as 20 mph.  Chance of precipitation is 20%.",
+        "probability_of_precipitation": 20,
+        "weather": "Slight Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 70,
+        "word_forecast": "Mostly clear, with a low around 70. West wind 5 to 10 mph becoming light and variable  in the evening. ",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 70,
+        "word_forecast": "Mostly clear, with a low around 70.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 70,
+        "word_forecast": "Mostly clear, with a low around 70.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 72,
+        "word_forecast": "Mostly clear, with a low around 72.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 71,
+        "word_forecast": "Mostly clear, with a low around 71.",
+        "weather": "Mostly Clear"
+      }
+    }
+  },
+  {
+    "location": "Azusa",
+    "current_as_of": "2024-07-31T19:14:16-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 92,
+        "word_forecast": "Partly sunny, with a high near 92. Light and variable wind becoming southwest 5 to 10 mph in the morning. ",
+        "weather": "Partly Sunny"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 93,
+        "word_forecast": "Mostly sunny, with a high near 93. Light west southwest wind becoming southwest 5 to 10 mph in the morning. ",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 94,
+        "word_forecast": "Sunny, with a high near 94.",
+        "weather": "Sunny"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 96,
+        "word_forecast": "Sunny and hot, with a high near 96.",
+        "weather": "Hot"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 97,
+        "word_forecast": "Mostly sunny and hot, with a high near 97.",
+        "weather": "Hot"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 98,
+        "word_forecast": "Mostly sunny and hot, with a high near 98.",
+        "weather": "Hot"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 97,
+        "word_forecast": "Sunny and hot, with a high near 97.",
+        "weather": "Hot"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 62,
+        "word_forecast": "Mostly clear, with a low around 62. West southwest wind 5 to 10 mph. ",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 65,
+        "word_forecast": "A 20 percent chance of showers and thunderstorms after 11pm.  Partly cloudy, with a low around 65. Southwest wind around 5 mph becoming calm  in the evening. ",
+        "probability_of_precipitation": 20,
+        "weather": "Slight Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 66,
+        "word_forecast": "Partly cloudy, with a low around 66. Southwest wind around 5 mph becoming calm  in the evening. ",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 67,
+        "word_forecast": "Mostly clear, with a low around 67.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 68,
+        "word_forecast": "Mostly clear, with a low around 68.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 69,
+        "word_forecast": "Mostly clear, with a low around 69.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 68,
+        "word_forecast": "Mostly clear, with a low around 68.",
+        "weather": "Mostly Clear"
+      }
+    }
+  },
+  {
+    "location": "SANTA ANA",
+    "current_as_of": "2024-07-31T12:47:01-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 79,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, partly sunny, with a high near 79. Light southwest wind increasing to 5 to 10 mph in the morning. ",
+        "weather": "Patchy Fog then Partly Sunny"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 83,
+        "word_forecast": "Mostly sunny, with a high near 83. Light west wind increasing to 5 to 10 mph in the morning. ",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 83,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, mostly cloudy, then gradually becoming sunny, with a high near 83.",
+        "weather": "Patchy Fog then Sunny"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 82,
+        "word_forecast": "Mostly sunny, with a high near 82.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 83,
+        "word_forecast": "Mostly cloudy, then gradually becoming sunny, with a high near 83.",
+        "weather": "Decreasing Clouds"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 84,
+        "word_forecast": "Mostly cloudy, then gradually becoming sunny, with a high near 84.",
+        "weather": "Decreasing Clouds"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 83,
+        "word_forecast": "Mostly cloudy, then gradually becoming sunny, with a high near 83.",
+        "weather": "Decreasing Clouds"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 64,
+        "word_forecast": "Patchy fog after 11pm.  Otherwise, increasing clouds, with a low around 64. West wind around 5 mph becoming calm  in the evening. ",
+        "weather": "Patchy Fog"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 67,
+        "word_forecast": "A slight chance of showers and thunderstorms.  Partly cloudy, with a low around 67. West wind around 5 mph becoming calm  in the evening.  Chance of precipitation is 20%.",
+        "probability_of_precipitation": 20,
+        "weather": "Slight Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 67,
+        "word_forecast": "Partly cloudy, with a low around 67. Southwest wind 5 to 10 mph becoming light west  in the evening. ",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 67,
+        "word_forecast": "Mostly clear, with a low around 67.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 68,
+        "word_forecast": "Increasing clouds, with a low around 68.",
+        "weather": "Increasing Clouds"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 69,
+        "word_forecast": "Increasing clouds, with a low around 69.",
+        "weather": "Increasing Clouds"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 69,
+        "word_forecast": "Increasing clouds, with a low around 69.",
+        "weather": "Increasing Clouds"
+      }
+    }
+  },
+  {
+    "location": "SANTA MONICA",
+    "current_as_of": "2024-07-31T19:14:16-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 75,
+        "word_forecast": "Patchy dense fog before 11am.  Otherwise, partly sunny, with a high near 75. Light southwest wind becoming west southwest 5 to 10 mph in the afternoon. ",
+        "weather": "Patchy Dense Fog then Partly Sunny"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 76,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, cloudy through mid morning, then gradual clearing, with a high near 76. Light west southwest wind becoming southwest 5 to 10 mph in the morning. ",
+        "weather": "Patchy Fog then Mostly Sunny"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 77,
+        "word_forecast": "Mostly sunny, with a high near 77.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 78,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, partly sunny, with a high near 78.",
+        "weather": "Patchy Fog then Mostly Sunny"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 79,
+        "word_forecast": "Partly sunny, with a high near 79.",
+        "weather": "Partly Sunny"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 80,
+        "word_forecast": "Mostly sunny, with a high near 80.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 79,
+        "word_forecast": "Mostly sunny, with a high near 79.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 62,
+        "word_forecast": "Patchy dense fog.  Otherwise, mostly cloudy, with a low around 62. West southwest wind 5 to 10 mph becoming light southwest  after midnight. ",
+        "weather": "Patchy Dense Fog"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 64,
+        "word_forecast": "A 20 percent chance of showers and thunderstorms after 11pm.  Increasing clouds, with a low around 64. West southwest wind 5 to 10 mph. ",
+        "probability_of_precipitation": 20,
+        "weather": "Slight Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 65,
+        "word_forecast": "Partly cloudy, with a low around 65. West southwest wind 5 to 10 mph becoming light and variable  in the evening. ",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 64,
+        "word_forecast": "Partly cloudy, with a low around 64.",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 65,
+        "word_forecast": "Mostly cloudy, with a low around 65.",
+        "weather": "Mostly Cloudy"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 65,
+        "word_forecast": "Mostly cloudy, with a low around 65.",
+        "weather": "Mostly Cloudy"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 66,
+        "word_forecast": "Partly cloudy, with a low around 66.",
+        "weather": "Partly Cloudy"
+      }
+    }
+  },
+  {
+    "location": "Torrance Municipal",
+    "current_as_of": "2024-07-31T19:14:16-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 77,
+        "word_forecast": "Patchy dense fog before 11am.  Otherwise, mostly cloudy, with a high near 77. Light west wind increasing to 5 to 10 mph in the morning. ",
+        "weather": "Patchy Dense Fog then Partly Sunny"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 78,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, cloudy, then gradually becoming mostly sunny, with a high near 78. Light west northwest wind becoming west southwest 5 to 10 mph in the morning. ",
+        "weather": "Patchy Fog then Mostly Sunny"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 79,
+        "word_forecast": "Mostly sunny, with a high near 79.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 80,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, partly sunny, with a high near 80.",
+        "weather": "Patchy Fog then Mostly Sunny"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 80,
+        "word_forecast": "Patchy fog before 11am.  Otherwise, partly sunny, with a high near 80.",
+        "weather": "Patchy Fog then Mostly Sunny"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 82,
+        "word_forecast": "Patchy fog.  Otherwise, partly sunny, with a high near 82.",
+        "weather": "Patchy Fog then Mostly Sunny"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 81,
+        "word_forecast": "Patchy fog.  Otherwise, partly sunny, with a high near 81.",
+        "weather": "Patchy Fog then Mostly Sunny"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 60,
+        "word_forecast": "Patchy dense fog after 11pm.  Otherwise, mostly cloudy, with a low around 60. West southwest wind 5 to 10 mph becoming light west northwest  after midnight. ",
+        "weather": "Patchy Dense Fog"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 62,
+        "word_forecast": "A 20 percent chance of showers and thunderstorms after 11pm.  Increasing clouds, with a low around 62. West wind 5 to 10 mph. ",
+        "probability_of_precipitation": 20,
+        "weather": "Slight Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 62,
+        "word_forecast": "Partly cloudy, with a low around 62. West southwest wind 5 to 10 mph becoming light  after midnight. ",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 63,
+        "word_forecast": "Partly cloudy, with a low around 63.",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 64,
+        "word_forecast": "Patchy fog after 11pm.  Otherwise, mostly cloudy, with a low around 64.",
+        "weather": "Patchy Fog"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 64,
+        "word_forecast": "Patchy fog.  Otherwise, mostly cloudy, with a low around 64.",
+        "weather": "Patchy Fog"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 65,
+        "word_forecast": "Patchy fog.  Otherwise, mostly cloudy, with a low around 65.",
+        "weather": "Patchy Fog"
+      }
+    }
+  },
+  {
+    "location": "UCLA",
+    "current_as_of": "2024-07-31T19:14:16-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 80,
+        "word_forecast": "Partly sunny, with a high near 80. Light south southwest wind becoming southwest 5 to 10 mph in the afternoon. ",
+        "weather": "Partly Sunny"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 81,
+        "word_forecast": "Mostly sunny, with a high near 81. Light south southwest wind becoming southwest 5 to 10 mph in the afternoon. ",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 82,
+        "word_forecast": "Mostly sunny, with a high near 82.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 82,
+        "word_forecast": "Mostly sunny, with a high near 82.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 84,
+        "word_forecast": "Mostly sunny, with a high near 84.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 84,
+        "word_forecast": "Mostly sunny, with a high near 84.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 84,
+        "word_forecast": "Mostly sunny, with a high near 84.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 59,
+        "word_forecast": "Patchy dense fog after 11pm.  Otherwise, mostly cloudy, with a low around 59. South wind 5 to 10 mph. ",
+        "weather": "Patchy Dense Fog"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 62,
+        "word_forecast": "A 20 percent chance of showers and thunderstorms after 11pm.  Mostly cloudy, with a low around 62. Southwest wind 5 to 10 mph. ",
+        "probability_of_precipitation": 20,
+        "weather": "Slight Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 64,
+        "word_forecast": "Partly cloudy, with a low around 64. Southwest wind 5 to 10 mph becoming light and variable  in the evening. ",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 64,
+        "word_forecast": "Partly cloudy, with a low around 64.",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 65,
+        "word_forecast": "Partly cloudy, with a low around 65.",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 66,
+        "word_forecast": "Mostly cloudy, with a low around 66.",
+        "weather": "Mostly Cloudy"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 65,
+        "word_forecast": "Partly cloudy, with a low around 65.",
+        "weather": "Partly Cloudy"
+      }
+    }
+  },
+  {
+    "location": "Van Nuys Airport",
+    "current_as_of": "2024-07-31T19:14:16-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 98,
+        "word_forecast": "Mostly sunny and hot, with a high near 98. Calm wind becoming south southeast around 5 mph in the afternoon. ",
+        "weather": "Hot"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 98,
+        "word_forecast": "Mostly sunny and hot, with a high near 98. East southeast wind around 5 mph becoming south in the afternoon. ",
+        "weather": "Hot"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 99,
+        "word_forecast": "Sunny and hot, with a high near 99.",
+        "weather": "Hot"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 99,
+        "word_forecast": "Sunny and hot, with a high near 99.",
+        "weather": "Hot"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 100,
+        "word_forecast": "Mostly sunny and hot, with a high near 100.",
+        "weather": "Hot"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 100,
+        "word_forecast": "Mostly sunny and hot, with a high near 100.",
+        "weather": "Hot"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 99,
+        "word_forecast": "Sunny and hot, with a high near 99.",
+        "weather": "Hot"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 68,
+        "word_forecast": "Mostly clear, with a low around 68. West wind around 5 mph becoming east southeast in the evening. ",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 70,
+        "word_forecast": "A 20 percent chance of showers and thunderstorms after 11pm.  Partly cloudy, with a low around 70. East southeast wind around 5 mph. ",
+        "probability_of_precipitation": 20,
+        "weather": "Slight Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 71,
+        "word_forecast": "Partly cloudy, with a low around 71. Southwest wind 5 to 10 mph becoming light and variable  in the evening. ",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 69,
+        "word_forecast": "Mostly clear, with a low around 69.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 70,
+        "word_forecast": "Mostly clear, with a low around 70.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 71,
+        "word_forecast": "Partly cloudy, with a low around 71.",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 70,
+        "word_forecast": "Mostly clear, with a low around 70.",
+        "weather": "Mostly Clear"
+      }
+    }
+  },
+  {
+    "location": "WHITTIER",
+    "current_as_of": "2024-07-31T19:14:16-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 88,
+        "word_forecast": "Patchy dense fog before 11am.  Otherwise, partly sunny, with a high near 88. Southwest wind 5 to 10 mph. ",
+        "weather": "Patchy Dense Fog then Partly Sunny"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 89,
+        "word_forecast": "Mostly sunny, with a high near 89. Light southwest wind becoming west southwest 5 to 10 mph in the afternoon. ",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 91,
+        "word_forecast": "Sunny, with a high near 91.",
+        "weather": "Sunny"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 93,
+        "word_forecast": "Sunny, with a high near 93.",
+        "weather": "Sunny"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 94,
+        "word_forecast": "Mostly sunny, with a high near 94.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 95,
+        "word_forecast": "Mostly sunny, with a high near 95.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 95,
+        "word_forecast": "Mostly sunny, with a high near 95.",
+        "weather": "Mostly Sunny"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 63,
+        "word_forecast": "Increasing clouds, with a low around 63. Southwest wind 5 to 10 mph. ",
+        "weather": "Increasing Clouds"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 66,
+        "word_forecast": "A 20 percent chance of showers and thunderstorms after 11pm.  Partly cloudy, with a low around 66. West southwest wind 5 to 10 mph becoming light southwest  in the evening. ",
+        "probability_of_precipitation": 20,
+        "weather": "Slight Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 67,
+        "word_forecast": "Partly cloudy, with a low around 67. West southwest wind 5 to 10 mph becoming light south southwest  in the evening. ",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 67,
+        "word_forecast": "Mostly clear, with a low around 67.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 68,
+        "word_forecast": "Partly cloudy, with a low around 68.",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 69,
+        "word_forecast": "Partly cloudy, with a low around 69.",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 69,
+        "word_forecast": "Mostly clear, with a low around 69.",
+        "weather": "Mostly Clear"
+      }
+    }
+  },
+  {
+    "location": "Woodland Hills",
+    "current_as_of": "2024-07-31T19:14:16-07:00",
+    "forecast": {
+      "2024-08-01T06:00:00-07:00": {
+        "daily_maximum_temperature": 99,
+        "word_forecast": "Mostly sunny and hot, with a high near 99. Calm wind becoming south southeast around 5 mph in the afternoon. ",
+        "weather": "Hot"
+      },
+      "2024-08-02T06:00:00-07:00": {
+        "daily_maximum_temperature": 102,
+        "word_forecast": "Mostly sunny and hot, with a high near 102. Light and variable wind becoming southwest 5 to 10 mph in the afternoon. ",
+        "weather": "Hot"
+      },
+      "2024-08-03T06:00:00-07:00": {
+        "daily_maximum_temperature": 103,
+        "word_forecast": "Sunny and hot, with a high near 103.",
+        "weather": "Hot"
+      },
+      "2024-08-04T06:00:00-07:00": {
+        "daily_maximum_temperature": 104,
+        "word_forecast": "Sunny and hot, with a high near 104.",
+        "weather": "Hot"
+      },
+      "2024-08-05T06:00:00-07:00": {
+        "daily_maximum_temperature": 105,
+        "word_forecast": "Mostly sunny and hot, with a high near 105.",
+        "weather": "Hot"
+      },
+      "2024-08-06T06:00:00-07:00": {
+        "daily_maximum_temperature": 105,
+        "word_forecast": "Mostly sunny and hot, with a high near 105.",
+        "weather": "Hot"
+      },
+      "2024-08-07T06:00:00-07:00": {
+        "daily_maximum_temperature": 105,
+        "word_forecast": "Sunny and hot, with a high near 105.",
+        "weather": "Hot"
+      },
+      "2024-07-31T19:00:00-07:00": {
+        "daily_minimum_temperature": 59,
+        "word_forecast": "Mostly clear, with a low around 59. West wind 5 to 10 mph becoming east northeast in the evening. ",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-01T18:00:00-07:00": {
+        "daily_minimum_temperature": 66,
+        "word_forecast": "A 20 percent chance of showers and thunderstorms after 11pm.  Partly cloudy, with a low around 66. West southwest wind around 5 mph becoming east northeast after midnight. ",
+        "probability_of_precipitation": 20,
+        "weather": "Slight Chance T-storms"
+      },
+      "2024-08-02T18:00:00-07:00": {
+        "daily_minimum_temperature": 66,
+        "word_forecast": "Partly cloudy, with a low around 66. West southwest wind around 5 mph becoming calm  in the evening. ",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-03T18:00:00-07:00": {
+        "daily_minimum_temperature": 65,
+        "word_forecast": "Mostly clear, with a low around 65.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-04T18:00:00-07:00": {
+        "daily_minimum_temperature": 65,
+        "word_forecast": "Mostly clear, with a low around 65.",
+        "weather": "Mostly Clear"
+      },
+      "2024-08-05T18:00:00-07:00": {
+        "daily_minimum_temperature": 66,
+        "word_forecast": "Partly cloudy, with a low around 66.",
+        "weather": "Partly Cloudy"
+      },
+      "2024-08-06T18:00:00-07:00": {
+        "daily_minimum_temperature": 66,
+        "word_forecast": "Mostly clear, with a low around 66.",
+        "weather": "Mostly Clear"
+      }
+    }
+  }
+]

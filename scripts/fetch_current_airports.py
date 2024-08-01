@@ -128,8 +128,6 @@ df.to_json(JSON_OUT, indent=4, orient="records")
 
 
 # S3
-
-
 # Paths for S3 storage
 S3_BUCKET = "stilesdata.com"
 S3_CSV_KEY = f"weather/latest_conditions_airports.csv"

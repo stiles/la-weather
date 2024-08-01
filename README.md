@@ -1,104 +1,169 @@
 # How's the weather in LA?
 
 ### About this project 
-This project a non-commercial exercise in data automation, analysis and presentation that collects [National Weather Service](https://www.weather.gov/lox) forecast data for various locations in the Los Angeles area. 
+This project a non-commercial exercise in data automation, analysis and presentation that collects [National Weather Service](https://www.weather.gov/lox) forecast data for various locations in the Los Angeles area.
 
 *It will grow over time, adding more documentation, additional forecast details, historic [climate normals](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00824) and, ultimately, a regularly updating static web application.*
 
-### Collection
+### Scope
 
-The data are fetched using a Python script that reads and parses XML files served dynamically based on longitude and latitude parameters passed for each place: 
+The project collects data from several sources, some live and some historical. 
 
-#### Location parameters
+- **Hourly and daily climate normals:** Normal conditions by month/day and month/day/hour at numerous stations. Derived from 2006-2020 data. 
+    - Data source: [National Centers for Environmental Information](https://www.ncei.noaa.gov/products/land-based-station/us-climate-normals)
+- **Airports:** Current temperature, wind speed, clouds and other conditions at 11 LA-area airports, including LAX, Burbank, Santa Monica and Long Beach. 
+    - Source: National Weather Service [Aviation Weather Center](https://aviationweather.gov/gfa/#obs)
+- **Seven-day hourly forecast:** Forecast conditions (numeric values for temperature, humidity, wind speed, etc.) for 32 weather stations the Los Angeles metro area. The forecast covers each hour for 168 hours following when it's fetched. 
+    - Source: [National Weather Service, Los Angeles/Oxnard office](https://forecast.weather.gov/MapClick.php?x=272&y=146&site=lox&zmx=&zmy=&map_x=271&map_y=146)
+- **Seven-day narrative forecast:** Forecast conditions (text statements describing the weather, i.e. "partly cloudy with a chance of rain) for 32 weather stations the Los Angeles metro area. The forecast covers each hour for 168 hours following when it's fetched.
+
+*More to come.*
+
+### Collection and locations
+
+The data are fetched using Python scripts that read data from a variety of sources. The daily and hourly seven-day forecasts are captured from XML files served dynamically by the weather service based on longitude and latitude parameters passed for each place. 
+
+These comes from `data/reference/socal_stations_daily.json` file: 
 
 ```python
-locations = {
-    "Santa Monica": {"latitude": 34.0195, "longitude": -118.4912},
-    "Culver City": {"latitude": 34.0219, "longitude": -118.3965},
-    "Pasadena": {"latitude": 34.1478, "longitude": -118.1445},
-    "Irvine": {"latitude": 33.6846, "longitude": -117.8265},
-    "Manhattan Beach": {"latitude": 33.8847, "longitude": -118.4109},
-    "Downtown Los Angeles": {"latitude": 34.0407, "longitude": -118.2468},
-    "Arcadia": {"latitude": 34.1397, "longitude": -118.0353},
-    "Burbank": {"latitude": 34.1808, "longitude": -118.3089},
-    "Torrance": {"latitude": 33.8358, "longitude": -118.3406},
-    "Newport Beach": {"latitude": 33.6189, "longitude": -117.9298},
-    "Malibu": {"latitude": 34.0259, "longitude": -118.7798},
+ {
+   ...
+    "USW00023129": {
+        "station": "LONG BEACH",
+        "state": "CA",
+        "country": "US",
+        "latitude": 33.8117,
+        "longitude": -118.1464,
+        "elevation": 9.4
+    },
+    "USW00093134": {
+        "station": "DOWNTOWN LOS ANGELES",
+        "state": "CA",
+        "country": "US",
+        "latitude": 34.0511,
+        "longitude": -118.2353,
+        "elevation": 70.1
+    },
+    "USW00023174": {
+        "station": "LAX",
+        "state": "CA",
+        "country": "US",
+        "latitude": 33.9381,
+        "longitude": -118.3889,
+        "elevation": 29.6
+    },
+    ...
 }
 ```
 
-#### XML structure
+The XML files for each location are fetched from these URLs: 
 
-The XML files for each location are fetched from URLs such as this one: 
+**Hourly:**
 
 [`https://forecast.weather.gov/MapClick.php?lat=33.9159&lon=-118.4097&FcstType=digitalDWML`](https://forecast.weather.gov/MapClick.php?lat=33.9159&lon=-118.4097&FcstType=digitalDWML)
 
-They are structured like this: 
+**Daily**
 
-```xml
-<parameters applicable-location="point1">
-    <temperature type="hourly" time-layout="k-p1h-n1-0">
-        <!-- Temperature values here -->
-    </temperature>
-    <dew point" time-layout="k-p1h-n1-0">
-        <!-- Dew point values here -->
-    </dew>
-    <probability-of-precipitation type="floating" units="percent" time-layout="k-p1h-n1-0">
-        <!-- Probability of precipitation values here -->
-    </probability-of-precipitation>
-    <wind-speed type="sustained" time-layout="k-p1h-n1-0">
-        <!-- Wind speed values here -->
-    </wind-speed>
-    <direction type="wind" units="degrees true" time-layout="k-p1h-n1-0">
-        <!-- Wind direction values here -->
-    </direction>
-    <cloud-amount type="total" units="percent" time-layout="k-p1h-n1-0">
-        <!-- Cloud amount values here -->
-    </cloud-amount>
-    <humidity type="relative" units="percent" time-layout="k-p1h-n1-0">
-        <!-- Humidity values here -->
-    </humidity>
-    <hourly-qpf type="floating" units="inches" time-layout="k-p1h-n1-0">
-        <!-- Hourly QPF values here -->
-    </hourly-qpf>
-    <weather time-layout="k-p1h-n1-0">
-        <!-- Weather conditions here -->
-    </weather>
-</parameters>
+[`https://forecast.weather.gov/MapClick.php?lat=33.9159&lon=-118.4097&unit=0&lg=english&FcstType=dwml`](https://forecast.weather.gov/MapClick.php?lat=33.9159&lon=-118.4097&unit=0&lg=english&FcstType=dwml)
+
+### Outputs
+
+
+#### Airports
+
+```python
+{
+    "station": "Station Name",
+    "time": "ISO 8601 Timestamp",
+    "temp": "Temperature in Fahrenheit",
+    "wind": "Wind speed and direction",
+    "clouds": "Cloud coverage",
+    "weather": "General weather conditions"
+}
 ```
 
-### Data scope and format
+#### Normals
 
-The forecast data provides hourly predictions for a period of several days. Each hourly forecast includes multiple weather measures, offering a surface-level view of the expected weather conditions.
+**Daily normals example**
 
-#### Schema
+| Key              | Description                                     | Example          |
+|------------------|-------------------------------------------------|------------------|
+| station          | Station identifier                              | "USC00040192"    |
+| name             | Name and location of the station                | "ANAHEIM, CA US" |
+| date             | Date in MM-DD format                            | "01-14"          |
+| month            | Month as a number                               | 1                |
+| day              | Day of the month                                | 14               |
+| avg_temp_normal  | Average temperature normal in Fahrenheit        | 60.6             |
+| max_temp_normal  | Maximum temperature normal in Fahrenheit        | 71.9             |
+| min_temp_normal  | Minimum temperature normal in Fahrenheit        | 49.3             |
+| latitude         | Latitude of the station                         | 33.8647          |
+| longitude        | Longitude of the station                        | -117.8425        |
 
-The collected data is structured in a long format to help with presentation based on the user's location and current date/time. The table below outlines the measures included in the forecast data, along with example values, data types, detailed descriptions, and units:
+**Hourly normals example**
 
-| Measure                       | Example | Type | Description                                        | Unit       |
-|-------------------------------|---------------|-----------|----------------------------------------------------|------------|
-| `location`                    | Santa Monica  | str       | Name of the location                               | N/A        |
-| `time`                        | 2024-07-30T11:00:00-07:00 | str  | Forecast time in ISO 8601 format                   | N/A        |
-| `temperature`                 | 75            | int       | Hourly temperature                                 | Fahrenheit |
-| `humidity`                    | 60            | int       | Relative humidity                                  | Percent    |
-| `wind_speed`                  | 10            | int       | Sustained wind speed                               | MPH        |
-| `wind_direction`              | 240           | int       | Wind direction in degrees                          | Degrees    |
-| `cloud_cover`                 | 20            | int       | Cloud cover                                        | Percent    |
-| `hourly_qpf`                  | 0.01          | float     | Hourly Quantitative Precipitation Forecast (QPF)   | Inches     |
-| `probability_of_precipitation`| 10            | int       | Probability of precipitation                       | Percent    |
+| Key              | Description                                     | Example                          |
+|------------------|-------------------------------------------------|----------------------------------|
+| station          | Station identifier                              | "USW00023174"                    |
+| name             | Name and location of the station                | "LOS ANGELES INTL AP, CA US"     |
+| date             | Date and time in MM-DDTHH:MM format             | "01-01T00:00:00"                 |
+| month            | Month as a number                               | 1                                |
+| day              | Day of the month                                | 1                                |
+| hour             | Hour of the day                                 | 0                                |
+| temp_normal      | Normal temperature in Fahrenheit                | 54.5                             |
+| dewpoint_normal  | Normal dew point temperature in Fahrenheit      | 39.3                             |
+| precip_normal    | Normal precipitation in inches                  | 1018.7                           |
+| pct_overcast     | Percentage of overcast sky                      | 6.5                              |
+| avg_windspeed    | Average wind speed in mph                       | 5.0                              |
+| wind_direction   | Average wind direction in degrees               | 47.0                             |
+| latitude         | Latitude of the station                         | 33.9381                          |
+| longitude        | Longitude of the station                        | -118.3889                        |
+| elevation        | Elevation of the station in meters              | 29.6                             |
 
-#### Examples
+#### Forecasts
 
-The following is a snippet of the data for a location:
+**Seven-day daily:**
 
-| location      | time                        | temperature | humidity | wind_speed | wind_direction | cloud_cover | hourly_qpf | probability_of_precipitation |
-|---------------|-----------------------------|-------------|----------|------------|----------------|-------------|------------|-----------------------------|
-| Santa Monica  | 2024-07-30T11:00:00-07:00   | 75          | 60       | 10         | 240            | 20          | 0.01       | 10                          |
-| Santa Monica  | 2024-07-30T12:00:00-07:00   | 76          | 61       | 12         | 230            | 15          | 0.00       | 5                           |
+```python
+[
+    {
+        "location": "Location Name",
+        "current_as_of": "ISO 8601 Timestamp",
+        "forecast": {
+            "timestamp": {
+                "daily_maximum_temperature": "Temperature in Fahrenheit",
+                "daily_minimum_temperature": "Temperature in Fahrenheit",
+                "word_forecast": "Textual forecast description",
+                "probability_of_precipitation": "Percentage",
+                "weather": "Short weather description"
+            }
+        }
+    }
+]
+```
 
-This data will ultimately be collected and updated hourly to ensure the most accurate and timely forecasts for users. 
+**Seven-day hour:**
 
-For more details on the specific weather measures and their significance, refer to the [National Weather Service](https://www.weather.gov/lox). 
+```python
+[
+    {
+        "location": "Location Name",
+        "current_as_of": "ISO 8601 Timestamp",
+        "forecast": {
+            "timestamp": {
+                "temperature": "Temperature in Fahrenheit",
+                "dewpoint": "Dewpoint in Fahrenheit",
+                "wind_speed": "Wind speed in mph",
+                "wind_direction": "Wind direction in degrees",
+                "clouds": "Cloud coverage",
+                "weather": "Short weather description",
+                "probability_of_precipitation": "Percentage"
+            }
+        }
+    }
+]
+```
+
+*More details to come.*
 
 Questions? Thoughts? [Please let me know](mailto:mattstiles@gmail.com).
 
