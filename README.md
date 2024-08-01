@@ -27,7 +27,6 @@ These comes from `data/reference/socal_stations_daily.json` file:
 
 ```json
  {
-   ...
     "USW00023129": {
         "station": "LONG BEACH",
         "state": "CA",
@@ -52,7 +51,6 @@ These comes from `data/reference/socal_stations_daily.json` file:
         "longitude": -118.3889,
         "elevation": 29.6
     },
-    ...
 }
 ```
 
