@@ -15,15 +15,18 @@ The project collects data from several sources, some live and some historical.
     - Source: National Weather Service [Aviation Weather Center](https://aviationweather.gov/gfa/#obs)
 - **Seven-day hourly forecast:** Forecast conditions (numeric values for temperature, humidity, wind speed, etc.) for 32 weather stations the Los Angeles metro area. The forecast covers each hour for 168 hours following when it's fetched. 
     - Source: [National Weather Service, Los Angeles/Oxnard office](https://forecast.weather.gov/MapClick.php?x=272&y=146&site=lox&zmx=&zmy=&map_x=271&map_y=146)
-- **Seven-day narrative forecast:** Forecast conditions (text statements describing the weather, i.e. "partly cloudy with a chance of rain) for 32 weather stations the Los Angeles metro area. The forecast covers each hour for 168 hours following when it's fetched.
+- **Seven-day narrative forecast:** Forecast conditions (text statements describing the weather, i.e. "partly cloudy with a chance of rain") for 32 weather stations the Los Angeles metro area. The forecast covers each hour for 168 hours following when it's fetched.
+    - Source: [National Weather Service, Los Angeles/Oxnard office](https://forecast.weather.gov/MapClick.php?x=272&y=146&site=lox&zmx=&zmy=&map_x=271&map_y=146)
 
 *More to come.*
 
 ## Collection and locations
 
-The data are fetched using Python scripts that read data from a variety of sources. The daily and hourly seven-day forecasts are captured from XML files served dynamically by the weather service based on longitude and latitude parameters passed for each place. 
+The data are fetched using Python scripts that read data from a variety of sources. See the `scripts/` directory. 
 
-These comes from `data/reference/socal_stations_daily.json` file: 
+The daily and hourly seven-day forecasts, as one example, are captured from XML files served dynamically by the weather service based on longitude and latitude parameters passed for each place. 
+
+These parameters come from the `data/reference/socal_stations_daily.json` file: 
 
 ```json
  {
@@ -79,7 +82,9 @@ The XML files for each location are fetched from these URLs:
 }
 ```
 
-### Daily normals example
+### Normals
+
+#### Daily example
 
 | Key              | Description                                     | Example          |
 |------------------|-------------------------------------------------|------------------|
@@ -94,7 +99,7 @@ The XML files for each location are fetched from these URLs:
 | latitude         | Latitude of the station                         | 33.8647          |
 | longitude        | Longitude of the station                        | -117.8425        |
 
-### Hourly normals example
+#### Hourly example
 
 | Key              | Description                                     | Example                          |
 |------------------|-------------------------------------------------|----------------------------------|
@@ -114,7 +119,9 @@ The XML files for each location are fetched from these URLs:
 | longitude        | Longitude of the station                        | -118.3889                        |
 | elevation        | Elevation of the station in meters              | 29.6                             |
 
-### Seven-day daily forecast
+### Seven-day forecast
+
+#### Daily
 
 ```json
 [
@@ -134,7 +141,9 @@ The XML files for each location are fetched from these URLs:
 ]
 ```
 
-### Seven-day hourly forecast
+### Seven-day forecast
+
+#### Hourly
 
 ```json
 [
@@ -156,7 +165,7 @@ The XML files for each location are fetched from these URLs:
 ]
 ```
 
-*More details to come.*
+*More documentation to come.*
 
 Questions? Thoughts? [Please let me know](mailto:mattstiles@gmail.com).
 
