@@ -63,7 +63,7 @@ The XML files for each location are fetched from these URLs:
 
 [`https://forecast.weather.gov/MapClick.php?lat=33.9159&lon=-118.4097&FcstType=digitalDWML`](https://forecast.weather.gov/MapClick.php?lat=33.9159&lon=-118.4097&FcstType=digitalDWML)
 
-**Daily**
+**Daily:**
 
 [`https://forecast.weather.gov/MapClick.php?lat=33.9159&lon=-118.4097&unit=0&lg=english&FcstType=dwml`](https://forecast.weather.gov/MapClick.php?lat=33.9159&lon=-118.4097&unit=0&lg=english&FcstType=dwml)
 
